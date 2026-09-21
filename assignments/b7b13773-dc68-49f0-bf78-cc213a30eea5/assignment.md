@@ -1,4 +1,10 @@
-# 作业：React 课程展示页
+---
+id: b7b13773-dc68-49f0-bf78-cc213a30eea5
+title: React 课程展示页
+dueAt: null
+---
+
+# React 课程展示页
 
 ## 目标
 
